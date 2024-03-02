@@ -37,7 +37,6 @@ Se deseja contribuir para este projeto, siga estas etapas:
 ## Autor
 
 - Edielly Ferreira
-
-!(./image.png)
+![Descrição da Imagem](./image.png)
 
 
