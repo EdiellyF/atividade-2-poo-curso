@@ -1,0 +1,14 @@
+.form-container {
+    width: 45%; 
+    margin-right: 1%; /* Espaçamento entre os formulários */
+    float: left; /* Alinhar os formulários lado a lado */
+
+}
+
+body {
+    background-color: #f0f0f0; 
+}
+
+.btn-width {
+    width: 200px; 
+}
